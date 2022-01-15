@@ -1,3 +1,9 @@
+# Docker cmds
+
+sudo docker build -t quiz-app:1.0 .
+docker run -p3000:3000 quiz-app:1.0
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
