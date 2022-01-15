@@ -1,6 +1,9 @@
 # Docker cmds
 
 sudo docker build -t quiz-app:1.0 .
+
+
+
 docker run -p3000:3000 quiz-app:1.0
 
 
